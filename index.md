@@ -9,7 +9,7 @@
    總題數五題，所有題目均為英文。
    賽後將提供中文題解資料。<br>
 5. **報名 Registration** <br>
-    報名網址：[bla](www.google.com)
+    報名網址：[https://forms.gle/511LXudLSd2HfVpy7](https://forms.gle/511LXudLSd2HfVpy7)
 6. **報名期限 Registration Deadline**<br>
    2020 年 12 月 14 日 星期一
 
