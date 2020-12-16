@@ -2,7 +2,7 @@
 1. **日期 Date** <br>
    2020 年 12 月 16 日 星期三
 2. **地點 Place** <br>
-   線上，連結待公佈。
+   線上，網址：[https://nctu-pcca.github.io/cptcWeb/oj](https://nctu-pcca.github.io/cptcWeb/oj)
 3. **競賽時間 Contest Time** <br>
    晚上六點至九點 (三小時)
 4. **題組 Problem Set** <br>
