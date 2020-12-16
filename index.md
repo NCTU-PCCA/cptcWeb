@@ -1,3 +1,7 @@
+## 最新資訊
++ 帳號更正：郵件中的帳號 teamXXX 應改為 team2XXX，例：team001 應改為 team2001
++ 比賽網頁：[https://nctu-pcca.github.io/cptcWeb/oj](https://nctu-pcca.github.io/cptcWeb/oj)
+
 ## 競賽資訊
 1. **日期 Date** <br>
    2020 年 12 月 16 日 星期三
@@ -18,7 +22,6 @@
   每隊由 1 至 3 名成員組成，每位成員至多參加一支隊伍。
 
 ## 規則
-
 1. **不得使用機器可讀的資料 No machine-readable preparation**<br>
 不得使用任何機器可讀的資料，如預先寫好存放於電腦中的程式碼。
 但可以使用紙本資料，如教科書、字典、筆記以及列印好的紙本程式碼。
@@ -36,7 +39,6 @@
 不得做出任何意圖妨礙比賽進行及影響比賽公平性的惡意行為。
 
 ## 計分與排名
-
 + **計分與排名 Scoring & Ranking** <br>
 競賽採標準 ICPC 賽制。
 隊伍以解題數量多者排名較前，解題數量相同時，以總消耗時間少者排名較前。
@@ -84,3 +86,6 @@ Ubuntu 20.04
     + Java (run): `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC`
     + Kotlin (compile): `kotlinc`
     + Kotlin (run): `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialG`
+
+## 聯絡
+- [cptc.contact@gmail.com](cptc.contact@gmail.com)
