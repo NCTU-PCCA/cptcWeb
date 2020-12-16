@@ -1,4 +1,5 @@
 ## 最新資訊
++ <font color='red'>比賽將延後 15 分鐘開始</font>
 + 帳號更正：<font color='red'>郵件中的帳號 teamXXX 應改為 team2XXX，例：team001 應改為 team2001</font>
 + 比賽網頁：[https://nctu-pcca.github.io/cptcWeb/oj](https://nctu-pcca.github.io/cptcWeb/oj)
 
