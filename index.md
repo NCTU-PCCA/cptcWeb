@@ -1,5 +1,5 @@
 ## 最新資訊
-+ 帳號更正：<span style="color:blue">郵件中的帳號 teamXXX 應改為 team2XXX，例：team001 應改為 team2001</span>
++ 帳號更正：<font color='red'>郵件中的帳號 teamXXX 應改為 team2XXX，例：team001 應改為 team2001</font>
 + 比賽網頁：[https://nctu-pcca.github.io/cptcWeb/oj](https://nctu-pcca.github.io/cptcWeb/oj)
 
 ## 競賽資訊
